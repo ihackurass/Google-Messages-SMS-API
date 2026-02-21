@@ -11,7 +11,7 @@
 ## Video Demostrativo
 
 <div align="center">
-   <img src="images/test.gif" alt="Demo GIF" width="70%"/>
+   <img src="images/test.gif" alt="Demo GIF" width="100%"/>
 </div>
 
 ## Características Principales
