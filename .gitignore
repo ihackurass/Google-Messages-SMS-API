@@ -1,0 +1,23 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Perfil de Chrome (sensible)
+**/GoogleMessagesProfile/
+ChromeProfileSMS/
+
+# Configuración local
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Base de datos
+*.db
+*.sqlite
+
+# User settings
+*.user
+*.suo
